@@ -1,0 +1,8 @@
+.post-list-item-root {
+    min-width: '60%';
+    margin-bottom: '2%';
+}
+
+.post-list-item-title {
+    font-size: 28;
+}

@@ -1,0 +1,6 @@
+export enum PostsListActionTypes {
+    LIKE_ITEM = 'LIKE_ITEM',
+    DISLIKE_ITEM = 'DISLIKE_ITEM',
+    SET_LOADING_STATUS = 'SET_LOADING_STATUS',
+    SET_POSTS = 'SET_POSTS',
+}
